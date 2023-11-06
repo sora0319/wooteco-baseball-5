@@ -3,3 +3,5 @@ second test
 third test
 final test
 test?
+final
+go
