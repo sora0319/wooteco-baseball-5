@@ -8,9 +8,6 @@ import java.util.List;
 public class ComputerNumber {
     private List<Integer> numbers;
 
-    public ComputerNumber() {
-    }
-
     public void makeNumber() {
         numbers = new ArrayList<>();
         while (numbers.size() < 3) {
